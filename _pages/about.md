@@ -5,6 +5,6 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I am an epidemiologist/data scientist with passion in population health and medicine. I enjoy data analyses involving causal inference, machine learning, deep learning. I am currently looking for a job in South Korea, so please reach out if interested!
 
-Etc, etc, etc
+
