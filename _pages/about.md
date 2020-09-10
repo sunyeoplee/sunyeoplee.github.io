@@ -6,7 +6,7 @@ header:
 ---
 
 I am an epidemiologist/data scientist with passion in population health and medicine. 
-\t
+
 I enjoy data analyses involving causal inference, machine learning, deep learning. I am currently looking for a job in South Korea, so please reach out if interested!
 
 
