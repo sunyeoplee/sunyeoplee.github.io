@@ -33,11 +33,11 @@ This project was a part of a Korean government-funded data science program, [202
 Christy Denckla, **Sun Y. Lee**, Rockli Kim,  Georgina Spies, Jennifer Vasterling, S.V. Subramanian, Soraya Seedat (2020). Pattering of individual variability in neurocognitive health among South African women exposed to childhood maltreatment. *Psychological Medicine* (under review)
 
 2. Novel approaches for investigating individual treatment heterogeneity: an application to the Head Start Impact Study - Research assistant
-   Publications: 
-   Justin Rodgers, Rockli Kim, **Sun Y. Lee**, S.V. Subramanian (2020). Quantifying the role of Head Start in explaining inter-child variation in cognitive, socio-developmental, and parenting outcomes. *Child Development* (under review)
-   **Sun Y. Lee**, Rockli Kim, Justin Rodgers, S.V. Subramanian (2020). Heterogeneity around the country-level association between subjective wellbeing and macroeconomic indicators. *Wellbeing, Space, & Society* (under review)
-   **Sun Y. Lee**, Rockli Kim, Justin Rodgers, S.V. Subramanian (2020). Modeling the Head Start Impact Study treatment effect on variance of child developmental outcomes. *Journal of Educational Psychology* (under review)
-   **Sun Y. Lee**, Rockli Kim, Justin Rodgers, S.V. Subramanian (2020). Understanding treatment effect heterogeneity of the Head Start Impact Study: systematic review of study findings and characteristics. *Journal of Research on Educational Effectiveness* (under review)
+* Publications:  
+Justin Rodgers, Rockli Kim, **Sun Y. Lee**, S.V. Subramanian (2020). Quantifying the role of Head Start in explaining inter-child variation in cognitive, socio-developmental, and parenting outcomes. *Child Development* (under review)  
+**Sun Y. Lee**, Rockli Kim, Justin Rodgers, S.V. Subramanian (2020). Heterogeneity around the country-level association between subjective wellbeing and macroeconomic indicators. *Wellbeing, Space, & Society* (under review)  
+**Sun Y. Lee**, Rockli Kim, Justin Rodgers, S.V. Subramanian (2020). Modeling the Head Start Impact Study treatment effect on variance of child developmental outcomes. *Journal of Educational Psychology* (under review)  
+**Sun Y. Lee**, Rockli Kim, Justin Rodgers, S.V. Subramanian (2020). Understanding treatment effect heterogeneity of the Head Start Impact Study: systematic review of study findings and characteristics. *Journal of Research on Educational Effectiveness* (under review)
 
 ## Teaching experiences
 ### Harvard University
