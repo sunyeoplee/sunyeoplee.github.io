@@ -22,15 +22,15 @@ population health, medicine, neuropsychiatry
 
 ## Research experiences
 ### Stand-alone projects
-1. Investigating agricultural product country-of-origin-labeling (COOL) violations in Seoul
+1. Investigating agricultural product country-of-origin-labeling (COOL) violations in Seoul  
 This project was a part of a Korean government-funded data science program, [2020 Data Science Campus](http://bigjob.dbguide.net/) (2020 데이터 청년 캠퍼스). Using data from [Korean National Agricultural Products Quality Management Service](http://www.naqs.go.kr/main/main.do) (국립농산물품질관리원)
 
 [github codes ](https://github.com/sunyeoplee/R-learning)
 
 ### Harvard University
-1. A comparative analysis of resilient phenotypes among bereaved youth - Research assistant
-   Publications: 
-   Christy Denckla, **Sun Y. Lee**, Rockli Kim,  Georgina Spies, Jennifer Vasterling, S.V. Subramanian, Soraya Seedat (2020). Pattering of individual variability in neurocognitive health among South African women exposed to childhood maltreatment. *Psychological Medicine* (under review)
+1. A comparative analysis of resilient phenotypes among bereaved youth - Research assistant  
+* Publications:  
+Christy Denckla, **Sun Y. Lee**, Rockli Kim,  Georgina Spies, Jennifer Vasterling, S.V. Subramanian, Soraya Seedat (2020). Pattering of individual variability in neurocognitive health among South African women exposed to childhood maltreatment. *Psychological Medicine* (under review)
 
 2. Novel approaches for investigating individual treatment heterogeneity: an application to the Head Start Impact Study - Research assistant
    Publications: 
