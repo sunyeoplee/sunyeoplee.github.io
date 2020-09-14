@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 permalink: /data-science-projects/
 title: "Data Science Projects"
 author_profile: true
