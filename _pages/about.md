@@ -4,7 +4,7 @@ title: "About myself"
 permalink: /about/
 toc: true
 header:
-  image: "/images/frontimage.jpg"
+  image: "/images/frontimage2.jpg"
 ---
 My name is Sun, and I am an **epidemiologist/data scientist** with passion for improving population health through data science.
 
