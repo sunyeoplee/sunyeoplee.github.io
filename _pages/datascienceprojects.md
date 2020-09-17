@@ -4,7 +4,7 @@ permalink: /experiences/
 title: "Experiences"
 author_profile: true
 header:
-  image: "/images/fort point.png"
+  image: "/images/waterfront.jpg"
 ---
 ## Research experiences
 ### Stand-alone projects
