@@ -1,6 +1,8 @@
 ---
+layout: "single"
 title: "About myself"
 permalink: /about/
+toc: true
 header:
   image: "/images/zakim.jpg"
 ---
