@@ -1,7 +1,6 @@
 ---
-layout: default
-permalink: /experiences/
 title: "Experiences"
+permalink: /experiences/
 author_profile: true
 header:
   image: "/images/waterfront.jpg"
