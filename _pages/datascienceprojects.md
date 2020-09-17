@@ -2,6 +2,7 @@
 title: "Experiences"
 permalink: /experiences/
 author_profile: true
+toc: true
 header:
   image: "/images/waterfront.jpg"
 ---
