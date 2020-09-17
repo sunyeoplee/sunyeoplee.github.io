@@ -4,7 +4,7 @@ permalink: /experiences/
 author_profile: true
 toc: true
 header:
-  image: "/images/waterfront.jpg"
+  image: "/images/datahasabetteridea2.jpg"
 ---
 ## Research experiences
 ### Stand-alone projects
