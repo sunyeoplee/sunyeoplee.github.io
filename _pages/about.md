@@ -18,9 +18,9 @@ B.S., Health Sciences, Furman University
 
 ## Research interests
 ### Methods
-causal inference, machine learning, deep learning
+causal inference, machine learning, deep learning, mixed effects models
 ### Subjects
-population health, medicine, neuropsychiatry
+population health, medicine, social determinants of health, neuropsychiatry, cardiovascular system
 
 ## CV
 file
