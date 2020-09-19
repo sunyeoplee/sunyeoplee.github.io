@@ -2,7 +2,8 @@
 title: "Experiences"
 permalink: /experiences/
 author_profile: true
-toc: true
+toc: false
+classes: wide
 header:
   image: "/images/datahasabetteridea2.jpg"
 ---
