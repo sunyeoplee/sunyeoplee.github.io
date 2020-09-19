@@ -8,7 +8,7 @@ header:
 ---
 ## Research experiences
 ### Stand-alone projects
-#### 1. Investigation of agricultural product country-of-origin-labeling violations in Seoul using GIS and deep learning
+#### 1. Investigation of agricultural product country-of-origin-labeling violations using *GIS* and *deep learning*
 * Github
   * [country-of-origin-labeling-investigation](https://github.com/sunyeoplee/country-of-origin-labeling-investigation)
 * Patent
