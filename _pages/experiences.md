@@ -1,9 +1,8 @@
 ---
-layout: single
 title: "Experiences"
 permalink: /experiences/
 author_profile: true
-classes: wide
+toc: true
 header:
   image: "/images/datahasabetteridea2.jpg"
 ---
