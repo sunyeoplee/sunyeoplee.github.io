@@ -8,14 +8,14 @@ header:
 ---
 ## Research experiences
 ### Stand-alone projects
-#### 1. Investigation of agricultural product country-of-origin-labeling violations using *GIS* and *deep learning*
+__1. Investigation of agricultural product country-of-origin-labeling violations using *GIS* and *deep learning*__
 * Github
   * [country-of-origin-labeling-investigation](https://github.com/sunyeoplee/country-of-origin-labeling-investigation)
 * Patent
   * (under review)
 
 ### Harvard University
-#### 1. A comparative analysis of resilient phenotypes among bereaved youth 
+### 1. A comparative analysis of resilient phenotypes among bereaved youth 
 * Github
   * [SouthAfrica-Neurocognitive-Variability](https://github.com/sunyeoplee/SouthAfrica-Neurocognitive-Variability)
 * Publications:  
