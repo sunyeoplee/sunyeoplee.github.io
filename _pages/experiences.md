@@ -7,15 +7,15 @@ header:
   image: "/images/datahasabetteridea2.jpg"
 ---
 ## Research experiences
-### __Stand-alone projects__
-### 1. Investigation of agricultural product country-of-origin-labeling violations using *GIS* and *deep learning*
+### Stand-alone projects
+#### 1. Investigation of agricultural product country-of-origin-labeling violations using *GIS* and *deep learning*
 * Github
   * [country-of-origin-labeling-investigation](https://github.com/sunyeoplee/country-of-origin-labeling-investigation)
 * Patent
   * (under review)
 
-### __Harvard University__
-### 1. A comparative analysis of resilient phenotypes among bereaved youth 
+### Harvard University
+#### 1. A comparative analysis of resilient phenotypes among bereaved youth 
 * Github
   * [SouthAfrica-Neurocognitive-Variability](https://github.com/sunyeoplee/SouthAfrica-Neurocognitive-Variability)
 * Publications:  
@@ -36,11 +36,11 @@ Justin Rodgers, Rockli Kim, **Sun Y. Lee**, S.V. Subramanian (2020). Quantifying
 **Sun Y. Lee**, Rockli Kim, Justin Rodgers, S.V. Subramanian (2020). Heterogeneity around the country-level association between subjective wellbeing and macroeconomic indicators. *Wellbeing, Space, & Society* (under review)  
 
 ## Teaching experiences
-### __Harvard University__
-### 1. SBS 263 Multilevel statistical methods: concept and application  
+### Harvard University
+#### 1. SBS 263 Multilevel statistical methods: concept and application  
 
-### __Furman University__
-### 1. HSC 244 Scientific principles of training
+### Furman University
+#### 1. HSC 244 Scientific principles of training
 
 
 
