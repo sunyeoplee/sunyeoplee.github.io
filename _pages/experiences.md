@@ -7,12 +7,16 @@ header:
   image: "/images/datahasabetteridea2.jpg"
 ---
 ## Research experiences
-### Stand-alone projects  
+### Stand-alone Projects  
 __1. Investigation of agricultural product country-of-origin-labeling violations using *GIS* and *deep learning*__
 * Github
   * [country-of-origin-labeling-investigation](https://github.com/sunyeoplee/country-of-origin-labeling-investigation)
 * Patent
   * (under review)
+  
+__1. Image Data Analysis__
+* Github
+  * [chest-x-ray-pneumonia](https://github.com/sunyeoplee/chest-x-ray-pneumonia)
 
 ### Harvard University  
 __1. A comparative analysis of resilient phenotypes among bereaved youth__
