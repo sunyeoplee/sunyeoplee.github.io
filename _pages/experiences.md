@@ -14,7 +14,7 @@ __1. Investigation of agricultural product country-of-origin-labeling violations
 * Patent
   * (under review)
   
-__1. Image Data Analysis__
+__2. Image Data Analysis__
 * Github
   * [chest-x-ray-pneumonia](https://github.com/sunyeoplee/chest-x-ray-pneumonia)
 
